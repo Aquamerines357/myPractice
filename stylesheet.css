@@ -30,9 +30,9 @@ body {
 }
 footer {
 margin: 0;
-position: auto;
+position: center;
 }
 .face {
-    position: relative;
+    position: center;
     margin:auto;
 }
