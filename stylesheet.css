@@ -32,10 +32,6 @@ footer {
 margin: 0 auto;
 position: center;
 }
-.face {
-    position: relative;
-    margin:0 auto;
-}
-figure {
+img {
     border: 2px solid aquamarine;
 }
