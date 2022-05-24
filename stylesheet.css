@@ -1,7 +1,11 @@
 .first {
-    color: blue
+    color: blue;
+    background-color: deeppink;
 }
 .second {
-    color: orange
+    color: orange;
+    background-color: aqua;
 }
-
+body {
+    min-width: 1170px;
+}
