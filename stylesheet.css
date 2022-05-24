@@ -1,12 +1,12 @@
 .first {
     color: blue;
     background-color: deeppink;
-    padding: 15px;
+    padding: 15px 0 15px 0;
 }
 .second {
     color: orange;
     background-color: aqua;
-    padding: 15px;
+    padding: 15px 0 15px 0;
 }
 body {
     max-width: 1200px;
