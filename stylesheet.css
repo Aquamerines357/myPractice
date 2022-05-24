@@ -33,6 +33,7 @@ margin: 0 auto;
 position: center;
 }
 img {
+    padding: 10px;
     border: 2px solid aquamarine;
 }
 div {
