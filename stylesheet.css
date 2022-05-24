@@ -7,7 +7,7 @@
     background-color: aqua;
 }
 body {
-    min-width: 1170px;
+    max-width: 1170px;
     margin: 0 auto;
-    padding: 15px;
+    padding: 30px;
 }
